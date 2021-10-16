@@ -1,0 +1,14 @@
+Package: spssData
+Title: A package stores the data using in spss book
+Version: 0.0.0.9000
+Authors@R: 
+    person("Zijing", "Xie", , "xzj14035@outlook.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A package stores the data using in spss book
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
